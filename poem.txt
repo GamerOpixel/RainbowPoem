@@ -6,3 +6,6 @@ Blue
 Green
 Red
 These are the colors of the rainbow and a unicorn
+Yellow
+These are the colors of the rainbow
+
